@@ -8,8 +8,8 @@ This program implement single image dehazing using dark channel prior.
 
 ## Examples
 <center>
-<img src="./image/test.png"  height = "400"  />
-<img src="./image/result.png"   height = "400"  />
+<img src="./test.png"  height = "400"  />
+<img src="./result.png"   height = "400"  />
 </center>
 
 
